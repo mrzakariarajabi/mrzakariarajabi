@@ -10,6 +10,23 @@
 - 🤖 With a keen interest in AI and Machine Learning
 - ⚡ Fun fact: I'm always up for a challenge and eager to collaborate on innovative projects
 - 🚀 Let's connect and create something extraordinary! 🌟
+
+
+
+
+<details>
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrzakariarajabi&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrzakariarajabi&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrzakariarajabi&theme=dracula)
+
+
+
+
 <!--
 **mrzakariarajabi/mrzakariarajabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
