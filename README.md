@@ -1,5 +1,6 @@
 <!--### Hey there! I'm Mohammad Zakaria Rajabi 👋-->
-
+![Profile View Counter](https://komarev.com/ghpvc/?username=mrzakariarajabi)
+[![Github](https://img.shields.io/github/followers/mrzakariarajabi?label=Follow&style=social)](https://github.com/mrzakariarajabi)
 
 
 <p align="center">
@@ -36,8 +37,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=drkostas&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
 </a> -->
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=mrzakariarajabi)
-[![Github](https://img.shields.io/github/followers/mrzakariarajabi?label=Follow&style=social)](https://github.com/mrzakariarajabi)
+
 
 <a href="https://github.com/mrzakariarajabi">
     <img src="https://github-stats-alpha.vercel.app/api?username=mrzakariarajabi&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
