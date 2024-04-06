@@ -5,7 +5,7 @@
 
 <p align="center">
 <a href="https://github.com/mrzakariarajabi">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=MohammadZakaria+Rajabi;Researcher+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Bots" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Mohammad+Zakaria+Rajabi;Researcher+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Bots" alt="Typing SVG" />
 </a>
 <br/>
 
@@ -59,27 +59,9 @@
 <br>
 My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrzakariarajabi&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrzakariarajabi&theme=tokyonight) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrzakariarajabi&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrzakariarajabi&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrzakariarajabi&theme=tokyonight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrzakariarajabi&theme=tokyonight)
 
-
-
-
-<!--
-**mrzakariarajabi/mrzakariarajabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🔭 Currently, I'm diving into the dynamic world of technology at AITEC company
-- 💼 I was graduated at university Isfahan in Biomedical Engineering 
-- 🌱 I’m currently learning Deep learning 
-- 👯 I’m looking to collaborate on any project 
-- 🤔 I'm constantly exploring new algorithms and methodologies to enhance our understanding of intelligent systems
-- 💬 Ask me about any thing 
-- 📫 How to reach me: m.zakarya.rajabi@gmail.com
-- 🤖 With a keen interest in AI and Machine Learning
-- ⚡ Fun fact: I'm always up for a challenge and eager to collaborate on innovative projects
-- 🚀 Let's connect and create something extraordinary! 🌟
--->
 
